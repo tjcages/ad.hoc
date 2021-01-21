@@ -1,0 +1,11 @@
+@import url("https://fonts.googleapis.com/css?family=Nunito+Sans:600");
+.nunitosans-semi-bold-licorice-32px {
+  color: var(--licorice);
+  font-family: "Nunito Sans", Helvetica, Arial, serif;
+  font-size: 32px;
+  font-style: normal;
+  font-weight: 600;
+}
+body {
+    font-family: "Nunito Sans"
+}

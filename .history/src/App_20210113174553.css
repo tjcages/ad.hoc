@@ -1,0 +1,15 @@
+@import url("https://fonts.googleapis.com/css?family=Nunito+Sans:600");
+.nunitosans-semi-bold-black-24px {
+  color: black;
+  font-family: "Nunito Sans", Helvetica, Arial, serif;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 600;
+}
+.nunitosans-semi-bold-black-32px {
+  color: black;
+  font-family: "Nunito Sans", Helvetica, Arial, serif;
+  font-size: 32px;
+  font-style: normal;
+  font-weight: 600;
+}
